@@ -4,8 +4,8 @@ from aiogram.types import ParseMode
 import asyncio
 import os
 
-API_TOKEN = os.getenv("API_TOKEN")
-bot = Bot(token=API_TOKEN)
+API_TOKEN = os.getenv("8151839888:AAFSKa2K6Ns8wAG8wLhJY1JbUIFmz1ylkgk")
+bot = Bot(token=8151839888:AAFSKa2K6Ns8wAG8wLhJY1JbUIFmz1ylkgk)
 dp = Dispatcher(bot)
 
 # تحميل بيانات المستخدمين
